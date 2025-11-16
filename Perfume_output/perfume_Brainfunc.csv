@@ -1,6 +1,3 @@
-Research indicates that fragrances can directly interact with and influence the central nervous system, thereby affecting human mood, physiology, and behavior. They have a significant impact on both mental and physical states. Electroencephalography (EEG) is a key tool used to study these effects, as it provides a simple and accurate way to measure brain responses to olfactory stimulation. In such studies, participants inhale specific fragrances while EEG data are recorded to analyze changes in brain activity. Previous EEG-based studies (as perfume_Brainfuc.csv) demonstrate that aroma inhalation can alter brain wave patterns, revealing how different scents modulate neural function and emotional states
-
-
 S. No.,Odorant Materials,EEG Wave Changes,Brain Functions,Reference
 1.,Galaxolide,Alpha decreased.,Odors produce divided attention even when undetected.,[74]
 2.,m-Xylene,Alpha increased.,Stimulating and excitatory effects.,[75]
@@ -44,4 +41,5 @@ S. No.,Odorant Materials,EEG Wave Changes,Brain Functions,Reference
 40.,Isomers of limonene and terpinolene,(+)-Limonene—relative high beta increased in the right temporal region. Terpinolene—relative mid beta decreased and relative fast alpha increased in the right prefrontal region.,Terpinolene—reducing the tension and increasing the relaxation and stabilization states of brain function.,[17]
 41.,Essential oil of Inula helenium root,"Theta (in all the regions except T3), beta (Fp1) and mid beta (P4) and relative theta (Fp1, Fp2, F3 and F4) decreased.",Enhance the alertness state of brain.,[60]
 42.,Lavender and bergamot,The absolute theta increased at the right prefrontal region Significant differences in the relative fast and slow alpha.,Both physical and mental states became more stable and relaxed.,[64]
+
 
